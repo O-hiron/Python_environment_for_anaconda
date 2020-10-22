@@ -1,0 +1,2 @@
+# Python_environment_foranaconda
+anacondaの環境ymlファイル置き場
