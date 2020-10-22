@@ -1,4 +1,4 @@
-# Python_environment_foranaconda
+# Python_environment_for_anaconda
 anacondaの環境YAMLファイル置き場
 
 # 導入方法
